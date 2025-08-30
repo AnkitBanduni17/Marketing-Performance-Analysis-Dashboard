@@ -7,7 +7,7 @@ Power BI
 
 DAX
 
-Structured Data (CSV/Excel/SQL)
+CSV File
 
 # KPI Tracking:
 
