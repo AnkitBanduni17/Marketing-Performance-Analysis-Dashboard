@@ -1,5 +1,5 @@
 # Marketing-Performance-Analysis-Dashboard
-Built an interactive Power BI dashboard using structured marketing data and DAX to track key KPIs including ROI, CTR, CPC, and total conversions.
+Built an interactive Power BI dashboard using structured marketing data and DAX to track key KPIs including ROI, CTR, CPC, and best marketing channel.
 
 # Tools
 
@@ -25,3 +25,5 @@ Referral Channel Performance
 Measured campaign effectiveness and ROI across channels
 
 Identified top-performing campaigns and referral contributions
+
+Quarter-wise performance of the campaigns
